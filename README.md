@@ -54,6 +54,9 @@ Now, navigate to the osTicket Installation files, right click and unzip it onto 
 
 Create a new folder "PHP" on the VM's C Drive
 - From the osTicket folder, extract the php 7.3.8 folder into the "C:\PHP" folder
+- From the osTicket folder, install VC_redist.x86.exe
+- From the osTicket folder, install MySQL.5.5.62, and choose "Typical" setup
+    - You will choose "Standard" configuration and set up your security settings, and click "Execute" 
 
 
 ![image](https://github.com/user-attachments/assets/f9fed873-8cf4-4df4-a866-fc78ff64a1b8)
