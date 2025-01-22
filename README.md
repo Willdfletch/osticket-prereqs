@@ -61,30 +61,17 @@ Create a new folder "PHP" on the VM's C Drive
 
 ![image](https://github.com/user-attachments/assets/f9fed873-8cf4-4df4-a866-fc78ff64a1b8)
 
+Open IIS as an Admin
+
+Register PHP from within IIS
+- Reload IIS (Open IIS, Stop and Start the server)
+
+  
+![image](https://github.com/user-attachments/assets/a9bba10f-c799-4013-8545-a6c6825df551)
+
+Navigate to the osTicket installation files, extract “osTicket-v1.15.8.zip” and copy the upload folder into “c:\inetpub\wwwroot”
+ - Rename "Upload" to "osTicket"
+ - Reload IIS (Internet Information Services, Stop and Start the server)
+![image](https://github.com/user-attachments/assets/812a7a38-3b65-4c22-85f4-5042c9579ada)
 
 
-
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
