@@ -32,7 +32,8 @@ Confirm Liscencing, and click Review + Create
 
 - Navigate to the Virtual Machine and find the public ip address
    - Open Remote Desktop and connect to the Virtual Machine
-
+   - Launch Microsoft Edge within the VM
+   - Download https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD within the VM (osTicket system)
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
